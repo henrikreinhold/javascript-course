@@ -1,9 +1,12 @@
-# Javascript Browser
+# HTML and CSS
 
 ## HTML
 
 * Structure
+* Div and Span
+* Elements
 * Semantic Model
+
 
 
 ## CSS
