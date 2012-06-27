@@ -19,17 +19,4 @@
 * Positioning
 * Forms
 * Preprocessors
-
-
-
-## Javascript in the Browser
-
-### Events
-
-
-## Javascript and HTML5
-
-
-
-
-
+* Media Queries
