@@ -4,4 +4,6 @@
 
 ## Web Workers
 
-## 
+## Web Sockets
+
+## History API
