@@ -2,6 +2,10 @@
 
 ## Browser Development Tools
 
+## Debug
+* Chrome
+* Firebug
+
 ## Testing
 
 * Jasmine
